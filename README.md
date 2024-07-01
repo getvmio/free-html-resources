@@ -4,8 +4,8 @@
 
 ## Resources
 
-|   Index | Name                                             | Category            | Tutorial                                                                                                                   |
-|---------|--------------------------------------------------|---------------------|----------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                            | Category            | Tutorial                                                                                                                  |
+|---------|-------------------------------------------------|---------------------|---------------------------------------------------------------------------------------------------------------------------|
 |       1 | 📖 Web Development Tutorials                     | Technical Tutorials | [🔗 Learning Free](https://getvm.io/tutorials/web-development-tutorials)                                                   |
 |       2 | 📖 JavaScript Tutorials                          | Technical Tutorials | [🔗 Learning Free](https://getvm.io/tutorials/javascript-tutorials)                                                        |
 |       3 | 📖 HTML Tutorials                                | Technical Tutorials | [🔗 Learning Free](https://getvm.io/tutorials/html-tutorials)                                                              |
