@@ -1,5 +1,9 @@
 # HTML Free Resources
 
+[![Black Friday](https://file.labex.io/images/labex-bf24.png)](https://labex.io/pricing)
+
+> [Black Friday 2024 & Cyber Monday 2024 Deals](https://labex.io/pricing) | Best Price of the Year
+
 🌐 Build the web with HTML Architect! This repository houses a comprehensive collection of free HTML courses and resources. From basic structure to advanced techniques, find everything you need to create stunning, accessible websites. Ideal for web design beginners and professionals alike.
 
 ## Resources
